@@ -1,0 +1,97 @@
+/* /* <link rel="stylesheet" type="text/css" hrefa */
+
+/* *{  */
+    /* background-color: rgb(181, 199, 199);
+} */
+
+
+
+@font-face {
+    font-family: roboto_condenced;
+    src: url(downloads/Roboto_condenced);
+  }
+
+
+h2 {
+    color: rgb(50, 123, 165);
+    text-align: center;
+    
+}
+
+.index-img {
+    background: url("images/index_pic1.jpg") no-repeat center center fixed;
+    /* object-fit: fill;
+    max-width: 100%;
+    height: auto; */
+    background-size: cover;
+   
+    
+}
+
+.brume_bckimg {
+    background: url("images/index_pic3.jpg") no-repeat center center fixed;
+    /* max-width: 100%;
+    height: auto; */
+    /* opacity: 0.9;
+    filter: invert(0.05); */
+    background-size: cover;
+    
+}
+
+
+.teaching_bckimg {
+    background: url("images/index_pic2.jpg")no-repeat center center fixed;
+    /* max-width: 100%;
+    height: auto; */
+    object-fit: fill;
+    background-size: cover;
+    
+}
+
+.nav_bar {
+    font-size: 42px;
+    font-weight: 300;
+    color: black;
+    background-color: rgba(163, 150, 150, 0.774);
+   
+}
+
+.coding_bck {
+    background: url("images/code_background.jpg") no-repeat center center fixed;
+    /* max-width: 100%;
+    height: auto; */
+    background-size: cover;
+
+
+}
+
+h1{
+    color: rgb(17, 89, 131);
+    font-size: 72px;
+    font-weight: 300;
+    font-style: oblique;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-synthesis: style;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #eaebe8;
+    padding: 10px;
+} 
+
+.coding_font {
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+
+body {
+    font-family: roboto_condenced;
+    font-weight: 500;
+    color:rgb(174, 177, 14) ;
+    font-size: 19px;
+}  
+
+#contact {
+    font-size: 30px;
+   
+}
